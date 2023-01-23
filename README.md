@@ -1,6 +1,6 @@
 # base de données immobilière avec SQL
 
-Projet N°3 de la formation de Data Analyst OpenClassrooms. Ce projet a été créé dans le cadre de la formation de Data Analyst OpenClassrooms. Il vise à démontrer les compétences en matière de :
+Ce projet a été créé dans le cadre de la formation de Data Analyst. Il vise à démontrer les compétences en matière de :
 - Conception et création d'une base de données, 
 - Réalisation des requêtes SQL pour extraire certaines données.
 
